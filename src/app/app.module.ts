@@ -7,6 +7,7 @@ import { FooterComponent } from './footer/footer.component';
 import {RouterModule, Routes} from '@angular/router';
 import { HomeComponent } from './home/home.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import {ExperienceComponent} from './experience/experience.component';
 
 
 const routeConfig: Routes = [
@@ -18,7 +19,8 @@ const routeConfig: Routes = [
     NavbarComponent,
     FooterComponent,
     HomeComponent,
-    CarouselComponent
+    CarouselComponent,
+    ExperienceComponent
   ],
   imports: [
     BrowserModule,
