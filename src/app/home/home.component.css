@@ -7,26 +7,45 @@
 .innerbox{
   background-color: whitesmoke;
   height: auto; margin-left: 10%; margin-right: 10%;padding-left: 5%;padding-right: 5%;
+  font-family: 'Comic Sans MS';
 }
 .buttonbox{
   margin-left: 0;
   margin-right: 15%;
   width: 70%;
 }
+.leaf {
+  border-radius: 5px 300px 3px 300px;
+  background: #6DC75F;
+  width: 90px;
+  height: 90px;
+  margin-left: 26%;
+  margin-top: -499px;
+}
+
+.leaf1 {
+  border-radius: 5px 300px 3px 300px;
+  background: #6DC75F;
+  width: 90px;
+  height: 90px;
+  margin-top: -200px;
+  margin-left: 8%;
+}
+
 .topbutton1{
-  background-color: lightsteelblue; margin-left: 10%;  width:15%;; margin-top: 20px;
+  color: lightsteelblue; margin-left: 10%;  width:15%;; margin-top: 20px;background-color: transparent;
 }
 .topbutton2{
-  background-color: orangered; margin-left: 10%; width:15%;; margin-top: 20px;
+  color: orangered; margin-left: 10%; width:15%;; margin-top: 20px;background-color: transparent;
 }
 .topbutton3{
-  background-color: forestgreen; margin-left: 10%; width:15%;; margin-top: 20px;
+  color: forestgreen; margin-left: -8%; width:15%;; margin-top: 20px;background-color: transparent;
 }
 .topbutton4{
-  background-color: orange; margin-left: 22%; width:15%;; margin-top: 20px;
+  color: orange; margin-left: 22%; width:15%;; margin-top: 20px;background-color: transparent;
 }
 .topbutton5{
-  background-color: purple; margin-left: 10%; width:15%;; margin-top: 20px;
+  color: purple; margin-left: 10%; width:15%;; margin-top: 20px;background-color: transparent;
 }
 .maincontent{
   margin-top: 20px;
