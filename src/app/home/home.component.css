@@ -17,6 +17,12 @@
 .treeimage{
   width:760px; height:auto;
 }
+.experience_name{
+  height: 80px;
+}
+.experience_content{
+  height: 150px;
+}
 
 /*.leaf {*/
   /*border-radius: 5px 300px 3px 300px;*/
@@ -233,4 +239,12 @@
 .topbutton1{
   width: 80%;
 }
+}
+@media screen and (max-width: 991px){
+  .experience_name{
+    height: auto;
+  }
+  .experience_content{
+    height: auto;
+  }
 }
